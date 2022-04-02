@@ -1,0 +1,248 @@
+{
+  "uniqueDashboard": [
+    {
+      "id": 1,
+      "title": "Home Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/01.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Category Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/02.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Book Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/03.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Book PDF",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/04.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Checkout Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/05.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Wishlist Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/06.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Admin Dashbord",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/07.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Book Category",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/08.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Author Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/09.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Admin Book Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Add Author",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Add Books",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/12.jpg"
+    }
+  ],
+  "uniqueMorePages": [
+    {
+      "id": 1,
+      "title": "User Pofile",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/01.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Color Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/02.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Form Layout Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/03.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Faq Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/04.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Sign-Up Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/05.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Confirm-Mail Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/06.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Lock-Screen Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/07.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Error Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/08.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Maintenance Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/09.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Comingsoon Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Error 500 Page",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Pricing",
+      "img": "https://templates.iqonic.design/booksto/intro/images/home/inner-page/12.jpg"
+    }
+  ],
+  "awesomeFeatures": [
+    {
+      "id": 1,
+      "title": "Creative Design",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/01.png"
+    },
+    {
+      "id": 2,
+      "title": "AmCharts",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/02.png"
+    },
+    {
+      "id": 3,
+      "title": "ApexChart",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/03.png"
+    },
+    {
+      "id": 4,
+      "title": "Wow Animation",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/04.png"
+    },
+    {
+      "id": 5,
+      "title": "Animated.Css",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/05.png"
+    },
+    {
+      "id": 6,
+      "title": "Flot Chart",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/06.png"
+    },
+    {
+      "id": 7,
+      "title": "Morris Chart",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/07.png"
+    },
+    {
+      "id": 8,
+      "title": "Bodymovin.Js",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/08.png"
+    },
+    {
+      "id": 9,
+      "title": "Countdown.Js",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/09.png"
+    },
+    {
+      "id": 10,
+      "title": "Slick.Js",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/10.png"
+    },
+    {
+      "id": 11,
+      "title": "Counterup.Js",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/11.png"
+    },
+    {
+      "id": 12,
+      "title": "Fully Responsive",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/12.png"
+    },
+    {
+      "id": 13,
+      "title": "Speed Optimized",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/13.png"
+    },
+    {
+      "id": 14,
+      "title": "Clean Code",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/14.png"
+    },
+    {
+      "id": 15,
+      "title": "W3c Validation",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/15.png"
+    },
+    {
+      "id": 16,
+      "title": "Google Font",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/16.png"
+    },
+    {
+      "id": 17,
+      "title": "Magnific Popup",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/17.png"
+    },
+    {
+      "id": 18,
+      "title": "Bootstrap V4+",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/18.png"
+    },
+    {
+      "id": 19,
+      "title": "Font Awesome",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/19.png"
+    },
+    {
+      "id": 20,
+      "title": "Jquery",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/20.png"
+    },
+    {
+      "id": 21,
+      "title": "Contact Form",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/21.png"
+    },
+    {
+      "id": 22,
+      "title": "Cross Browser",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/22.png"
+    },
+    {
+      "id": 23,
+      "title": "Well Documented",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/23.png"
+    },
+    {
+      "id": 24,
+      "title": "Many More...",
+      "img": "https://templates.iqonic.design/booksto/intro/images/features/24.png"
+    }
+  ]
+}

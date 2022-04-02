@@ -1,0 +1,81 @@
+.cardDemo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.demoCardImg {
+  width: 100%;
+  height: 350px;
+}
+
+.demoCardImg img {
+  margin-top: 20px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 5px solid rgb(241, 238, 238);
+  border-radius: 3px;
+  transition: 3s ease-in-out all;
+  object-position: top;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+  animation-duration: 3s;
+  animation-name: img;
+}
+
+@keyframes img {
+  from {
+    margin-top: 300px;
+  }
+  to {
+    margin-top: 20px;
+  }
+}
+
+.demoCardImg img:hover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.cardDemoLink {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  width: 90%;
+  background-color: #0dd6b8;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.cardDemo h5 {
+  font-size: 1.25em;
+  font-weight: 600;
+  margin: 24px 0 16px 0;
+}
+
+.cardDemoLink a {
+  width: 100%;
+  padding: 10px 0;
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  display: block;
+  transition: 0.5s ease-in-out;
+}
+.cardDemoLink a:first-child {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.cardDemoLink a:last-child {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.cardDemoLink a:hover {
+  background-color: salmon;
+}
